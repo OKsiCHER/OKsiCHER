@@ -8,7 +8,5 @@
 - ⭐ Люблю учиться и применять знания на практике. 
 
 ### Навыки:
-![image](https://github.com/user-attachments/assets/13ada3fb-c1ca-4833-9ad9-4ba8f63b4fc8)
-![image](https://github.com/user-attachments/assets/a17ae994-7ca8-465b-b0ab-9b7c039ed786)
-![image](https://github.com/user-attachments/assets/4d479a90-c56a-46ee-81e1-420883244e88)
+Python, PostgreSQL, DataLens
 
